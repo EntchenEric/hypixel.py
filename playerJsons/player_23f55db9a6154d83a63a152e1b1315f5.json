@@ -9,14 +9,14 @@
         "warlords_warrior_level": 80,
         "warlords_shaman_level": 0,
         "warlords_mage_level": 78,
-        "skywars_kills_solo": 38725,
+        "skywars_kills_solo": 38728,
         "skywars_wins_team": 3900,
         "skywars_kits_team": 27,
         "skywars_cages": 69,
         "skywars_kits_solo": 28,
         "skywars_wins_solo": 5585,
         "skywars_kills_team": 22283,
-        "general_wins": 24042,
+        "general_wins": 24112,
         "quake_kills": 26568,
         "quake_killing_sprees": 784,
         "walls_kills": 35,
@@ -35,7 +35,7 @@
         "blitz_kills": 2079,
         "blitz_coins": 589850,
         "truecombat_solo_killer": 1,
-        "general_challenger": 14580,
+        "general_challenger": 14590,
         "truecombat_team_killer": 1,
         "supersmash_smash_champion": 11,
         "speeduhc_hunter": 382,
@@ -46,7 +46,7 @@
         "warlords_kills": 39,
         "warlords_repair_weapons": 74,
         "warlords_tdm_wins": 18,
-        "general_quest_master": 6795,
+        "general_quest_master": 6799,
         "warlords_dom_wins": 1,
         "skyclash_cards_unlocked": 9,
         "skyclash_packs_opened": 1,
@@ -84,7 +84,7 @@
         "blitz_fighting_expert": 1908,
         "blitz_kit_experience_collector": 6832,
         "bedwars_collectors_edition": 22142,
-        "duels_duels_winner": 4729,
+        "duels_duels_winner": 4799,
         "duels_duels_win_streak": 38,
         "arcade_zombies_nice_shot": 18598,
         "arcade_zombies_round_progression": 44,
@@ -920,11 +920,11 @@
     ],
     "displayname": "RRG_",
     "firstLogin": 1405006604000,
-    "networkExp": 245671935.0,
+    "networkExp": 245742653.0,
     "playername": "rrg_",
     "stats": {
         "Arcade": {
-            "coins": 2945285.0,
+            "coins": 2948361.0,
             "kills_dragonwars2": 20,
             "kills_dayone": 807,
             "headshots_dayone": 221,
@@ -1463,7 +1463,7 @@
             "volcano_round_wins_party": 1
         },
         "Arena": {
-            "coins": 2936714,
+            "coins": 2936744,
             "damage_4v4": 4908,
             "deaths_4v4": 4,
             "games_4v4": 4,
@@ -1561,7 +1561,7 @@
             "losses_1v1": 2
         },
         "TNTGames": {
-            "coins": 819671,
+            "coins": 819686,
             "kills_tntag": 1074,
             "capture_class": "Wither Wizard",
             "deaths_capture": 59,
@@ -1775,7 +1775,7 @@
             "losses": 7,
             "kills": 27,
             "wins": 11,
-            "coins": 3445110,
+            "coins": 3445140,
             "weekly_wins_b": 10,
             "monthly_wins_b": 4,
             "monthly_wins_a": 7,
@@ -1923,7 +1923,7 @@
             "box_pickups_junglerush": 232,
             "banana_hits_received": 83,
             "coins_picked_up": 1654,
-            "coins": 4031344,
+            "coins": 4031374,
             "parts": "{GingerbreadPart:{PartType:FRAME,PartRarity:AWESOME,Attributes:[{KartAttributeType:TRACTION,Level:5},{KartAttributeType:START_POSITION,Level:5},{KartAttributeType:HANDLING,Level:5}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:AWESOME,Attributes:[{KartAttributeType:BOOSTER_SPEED,Level:5},{KartAttributeType:DRIFTING_EFFICIENCY,Level:5},{KartAttributeType:BRAKES,Level:5}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:AWESOME,Attributes:[{KartAttributeType:TRACTION,Level:5},{KartAttributeType:START_POSITION,Level:5},{KartAttributeType:HANDLING,Level:5}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:AWESOME,Attributes:[{KartAttributeType:TRACTION,Level:5},{KartAttributeType:START_POSITION,Level:5},{KartAttributeType:HANDLING,Level:5}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:AWESOME,Attributes:[{KartAttributeType:RECOVERY,Level:5},{KartAttributeType:ACCELERATION,Level:5},{KartAttributeType:TOP_SPEED,Level:5}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:SUPER,Attributes:[{KartAttributeType:DRIFTING_EFFICIENCY,Level:4},{KartAttributeType:BRAKES,Level:5}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:AWESOME,Attributes:[{KartAttributeType:BRAKES,Level:1},{KartAttributeType:BOOSTER_SPEED,Level:5},{KartAttributeType:DRIFTING_EFFICIENCY,Level:3}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:SUPER,Attributes:[{KartAttributeType:START_POSITION,Level:3},{KartAttributeType:TRACTION,Level:4}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:AWESOME,Attributes:[{KartAttributeType:BRAKES,Level:1},{KartAttributeType:DRIFTING_EFFICIENCY,Level:3},{KartAttributeType:BOOSTER_SPEED,Level:3}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:SUPER,Attributes:[{KartAttributeType:ACCELERATION,Level:2},{KartAttributeType:RECOVERY,Level:5}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:SUPER,Attributes:[{KartAttributeType:START_POSITION,Level:1},{KartAttributeType:HANDLING,Level:5}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:SUPER,Attributes:[{KartAttributeType:DRIFTING_EFFICIENCY,Level:2},{KartAttributeType:BRAKES,Level:4}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:AWESOME,Attributes:[{KartAttributeType:TOP_SPEED,Level:2},{KartAttributeType:RECOVERY,Level:3},{KartAttributeType:ACCELERATION,Level:1}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:SUPER,Attributes:[{KartAttributeType:START_POSITION,Level:4},{KartAttributeType:TRACTION,Level:2}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:TRACTION,Level:5}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:SUPER,Attributes:[{KartAttributeType:TOP_SPEED,Level:3},{KartAttributeType:RECOVERY,Level:2}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:HANDLING,Level:5}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:AWESOME,Attributes:[{KartAttributeType:HANDLING,Level:1},{KartAttributeType:START_POSITION,Level:1},{KartAttributeType:TRACTION,Level:3}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:SUPER,Attributes:[{KartAttributeType:BRAKES,Level:1},{KartAttributeType:DRIFTING_EFFICIENCY,Level:4}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:BASIC,Attributes:[{KartAttributeType:BOOSTER_SPEED,Level:4}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:SUPER,Attributes:[{KartAttributeType:TRACTION,Level:1},{KartAttributeType:START_POSITION,Level:3}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:SUPER,Attributes:[{KartAttributeType:ACCELERATION,Level:2},{KartAttributeType:RECOVERY,Level:2}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:BASIC,Attributes:[{KartAttributeType:BRAKES,Level:4}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:TRACTION,Level:4}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:SUPER,Attributes:[{KartAttributeType:TOP_SPEED,Level:2},{KartAttributeType:RECOVERY,Level:2}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:HANDLING,Level:4}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:HANDLING,Level:4}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:SUPER,Attributes:[{KartAttributeType:TRACTION,Level:1},{KartAttributeType:HANDLING,Level:3}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:BASIC,Attributes:[{KartAttributeType:BRAKES,Level:4}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:BASIC,Attributes:[{KartAttributeType:BRAKES,Level:4}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:START_POSITION,Level:3}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:TRACTION,Level:3}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:TRACTION,Level:3}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:AWESOME,Attributes:[{KartAttributeType:TRACTION,Level:1},{KartAttributeType:START_POSITION,Level:1},{KartAttributeType:HANDLING,Level:1}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:BASIC,Attributes:[{KartAttributeType:BRAKES,Level:3}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:SUPER,Attributes:[{KartAttributeType:START_POSITION,Level:1},{KartAttributeType:HANDLING,Level:2}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:HANDLING,Level:3}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:TRACTION,Level:3}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:BASIC,Attributes:[{KartAttributeType:RECOVERY,Level:3}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:START_POSITION,Level:3}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:SUPER,Attributes:[{KartAttributeType:ACCELERATION,Level:1},{KartAttributeType:RECOVERY,Level:1}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:HANDLING,Level:2}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:TRACTION,Level:2}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:BASIC,Attributes:[{KartAttributeType:ACCELERATION,Level:2}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:BASIC,Attributes:[{KartAttributeType:BOOSTER_SPEED,Level:2}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:TRACTION,Level:2}]}};{GingerbreadPart:{PartType:ENGINE,PartRarity:BASIC,Attributes:[{KartAttributeType:TOP_SPEED,Level:1}]}};{GingerbreadPart:{PartType:FRAME,PartRarity:BASIC,Attributes:[{KartAttributeType:TRACTION,Level:1}]}};{GingerbreadPart:{PartType:TURBOCHARGER,PartRarity:BASIC,Attributes:[{KartAttributeType:BRAKES,Level:1}]}}",
             "box_pickups_olympus": 197,
             "olympus_plays": 13,
@@ -2032,7 +2032,7 @@
             "wins": 18,
             "afk_warned": 6,
             "damage_prevented_warrior": 62192,
-            "coins": 320432,
+            "coins": 320447,
             "damage_prevented_berserker": 11266,
             "losses": 9,
             "losses_warrior": 5,
@@ -2182,20 +2182,20 @@
         },
         "SkyWars": {
             "win_streak": 0,
-            "survived_players": 303489,
-            "losses": 27743,
-            "losses_solo": 18052,
+            "survived_players": 303517,
+            "losses": 27750,
+            "losses_solo": 18059,
             "survived_players_kit_basic_solo_default": 18,
             "deaths_kit_basic_solo_default": 7,
-            "losses_solo_normal": 13492,
-            "blocks_placed": 960448,
-            "deaths_solo": 18050,
-            "deaths": 28493,
-            "quits": 22529,
-            "deaths_solo_normal": 13490,
-            "survived_players_solo": 155766,
+            "losses_solo_normal": 13499,
+            "blocks_placed": 960524,
+            "deaths_solo": 18057,
+            "deaths": 28500,
+            "quits": 22536,
+            "deaths_solo_normal": 13497,
+            "survived_players_solo": 155794,
             "losses_kit_basic_solo_default": 7,
-            "egg_thrown": 269029,
+            "egg_thrown": 269032,
             "soul_well": 332,
             "usedSoulWell": true,
             "solo_instant_smelting": 0,
@@ -2888,17 +2888,17 @@
             ],
             "kills_solo_insane": 5446,
             "deaths_solo_insane": 4560,
-            "arrows_hit": 25098,
+            "arrows_hit": 25099,
             "kills_kit_basic_solo_default": 1,
-            "coins": 26956080,
+            "coins": 26973116,
             "souls_gathered": 1536,
-            "kills_solo": 38725,
+            "kills_solo": 38728,
             "losses_solo_insane": 4560,
-            "kills": 65784,
+            "kills": 65787,
             "souls": 8918,
-            "arrows_shot": 76341,
+            "arrows_shot": 76343,
             "deaths_team_insane": 911,
-            "blocks_broken": 95596,
+            "blocks_broken": 95597,
             "survived_players_kit_mining_team_default": 273,
             "survived_players_team": 132743,
             "losses_team_insane": 842,
@@ -2923,7 +2923,7 @@
             "enderpearls_thrown": 11528,
             "assists_team": 4819,
             "assists_kit_mining_team_default": 1,
-            "assists": 8782,
+            "assists": 8783,
             "activeKit_TEAM": "kit_defending_team_armorer",
             "losses_kit_defending_team_armorer": 3082,
             "survived_players_kit_defending_team_armorer": 26359,
@@ -2951,9 +2951,9 @@
             "games_kit_basic_solo_troll": 76,
             "kills_kit_basic_solo_troll": 412,
             "games_solo": 8294,
-            "kills_solo_normal": 33279,
+            "kills_solo_normal": 33282,
             "votes_Congo": 1,
-            "assists_solo": 3645,
+            "assists_solo": 3646,
             "assists_kit_basic_solo_troll": 31,
             "soul_well_rares": 56,
             "votes_Temple": 1,
@@ -3032,8 +3032,8 @@
             "wins_kit_supporting_team_ecologist": 9,
             "games_kit_supporting_team_ecologist": 21,
             "assists_kit_supporting_team_ecologist": 14,
-            "kills_weekly_b": 34610,
-            "kills_monthly_b": 34728,
+            "kills_weekly_b": 34613,
+            "kills_monthly_b": 34731,
             "kills_kit_attacking_team_hunter": 157,
             "kills_weekly_a": 30607,
             "kills_monthly_a": 30489,
@@ -3122,30 +3122,30 @@
             "melee_kills_kit_defending_team_armorer": 2108,
             "melee_kills_team": 13717,
             "time_played_kit_defending_team_armorer": 222173,
-            "chests_opened": 89480,
-            "melee_kills": 40226,
+            "chests_opened": 89501,
+            "melee_kills": 40227,
             "most_kills_game_team": 9,
             "chests_opened_team": 18918,
             "time_played_team": 948599,
             "most_kills_game_kit_defending_team_armorer": 13,
             "chests_opened_kit_defending_team_armorer": 9393,
-            "time_played": 3117036,
+            "time_played": 3117255,
             "most_kills_game": 9,
             "longest_bow_shot_team": 45,
             "longest_bow_shot": 61,
             "longest_bow_shot_kit_defending_team_armorer": 83,
             "arrows_shot_team": 28025,
-            "void_kills": 18700,
+            "void_kills": 18701,
             "arrows_hit_team": 9384,
             "arrows_hit_kit_defending_team_armorer": 1941,
             "void_kills_team": 6442,
             "arrows_shot_kit_defending_team_armorer": 5807,
             "void_kills_kit_defending_team_armorer": 1360,
-            "chests_opened_solo": 66140,
+            "chests_opened_solo": 66161,
             "chests_opened_kit_basic_solo_armorsmith": 26,
             "time_played_kit_basic_solo_armorsmith": 770,
-            "time_played_solo": 1505447,
-            "melee_kills_solo": 24069,
+            "time_played_solo": 1505666,
+            "melee_kills_solo": 24070,
             "most_kills_game_kit_basic_solo_armorsmith": 5,
             "most_kills_game_solo": 6,
             "melee_kills_kit_basic_solo_armorsmith": 7,
@@ -3153,8 +3153,8 @@
             "longest_bow_shot_kit_basic_solo_armorsmith": 13,
             "arrows_hit_kit_basic_solo_armorsmith": 4,
             "arrows_shot_kit_basic_solo_armorsmith": 7,
-            "arrows_hit_solo": 12532,
-            "arrows_shot_solo": 38665,
+            "arrows_hit_solo": 12533,
+            "arrows_shot_solo": 38667,
             "time_played_kit_basic_solo_ecologist": 27298,
             "chests_opened_kit_basic_solo_ecologist": 248,
             "fastest_win_kit_basic_solo_ecologist": 76,
@@ -3170,7 +3170,7 @@
             "arrows_shot_kit_basic_solo_troll": 6,
             "melee_kills_kit_basic_solo_troll": 18,
             "most_kills_game_kit_basic_solo_troll": 7,
-            "void_kills_solo": 10556,
+            "void_kills_solo": 10557,
             "void_kills_kit_basic_solo_troll": 5,
             "longest_bow_shot_kit_advanced_solo_knight": 33,
             "most_kills_game_kit_advanced_solo_knight": 9,
@@ -3215,7 +3215,7 @@
             "survived_players_kit_basic_solo_disco": 30329,
             "void_kills_kit_basic_solo_ecologist": 155,
             "team_bridger": 0,
-            "games_played_skywars": 38372,
+            "games_played_skywars": 38379,
             "lastMode": "SOLO",
             "solo_bulldozer": 0,
             "freeLootChestNpc": 1527964697145,
@@ -3226,7 +3226,7 @@
             "losses_kit_basic_solo_baseball-player": 57,
             "survived_players_kit_basic_solo_baseball-player": 980,
             "time_played_kit_basic_solo_baseball-player": 7260,
-            "skywars_experience": 216468.0,
+            "skywars_experience": 216471.0,
             "team_bulldozer": 0,
             "solo_bridger": 0,
             "solo_marksmanship": 0,
@@ -4678,7 +4678,7 @@
             "fall_kills": 1419,
             "fall_kills_kit_advanced_solo_armorer": 462,
             "fall_kills_solo": 835,
-            "shard": 65,
+            "shard": 70,
             "shard_kit_advanced_solo_armorer": 167815,
             "shard_solo": 536165,
             "arrows_hit_kit_basic_solo_frog": 1,
@@ -4713,16 +4713,16 @@
             "survived_players_lab_kit_attacking_team_knight": 9,
             "time_played_lab_kit_attacking_team_knight": 219,
             "fastest_win_kit_attacking_team_knight": 114,
-            "assists_kit_basic_solo_scout": 61,
-            "chests_opened_kit_basic_solo_scout": 1118,
-            "deaths_kit_basic_solo_scout": 259,
-            "kills_kit_basic_solo_scout": 531,
+            "assists_kit_basic_solo_scout": 62,
+            "chests_opened_kit_basic_solo_scout": 1139,
+            "deaths_kit_basic_solo_scout": 266,
+            "kills_kit_basic_solo_scout": 534,
             "longest_bow_kill_kit_basic_solo_scout": 80,
-            "losses_kit_basic_solo_scout": 258,
-            "melee_kills_kit_basic_solo_scout": 362,
+            "losses_kit_basic_solo_scout": 265,
+            "melee_kills_kit_basic_solo_scout": 363,
             "most_kills_game_kit_basic_solo_scout": 9,
-            "survived_players_kit_basic_solo_scout": 2478,
-            "time_played_kit_basic_solo_scout": 21095,
+            "survived_players_kit_basic_solo_scout": 2506,
+            "time_played_kit_basic_solo_scout": 21314,
             "fall_kills_kit_ranked_ranked_scout": 45,
             "fall_kills_ranked": 76,
             "heads_salty_kit_supporting_team_rookie": 1,
@@ -4783,9 +4783,9 @@
             "skywars_experience_pending": 0,
             "chests_opened_kit_attacking_team_scout": 156,
             "time_played_kit_attacking_team_scout": 5246,
-            "void_kills_kit_basic_solo_scout": 125,
-            "arrows_hit_kit_basic_solo_scout": 104,
-            "arrows_shot_kit_basic_solo_scout": 262,
+            "void_kills_kit_basic_solo_scout": 126,
+            "arrows_hit_kit_basic_solo_scout": 105,
+            "arrows_shot_kit_basic_solo_scout": 264,
             "longest_bow_shot_kit_basic_solo_scout": 38,
             "fastest_win_kit_basic_solo_scout": 46,
             "games_kit_basic_solo_scout": 108,
@@ -6250,7 +6250,7 @@
             "afterkill": "gravedigger"
         },
         "UHC": {
-            "coins": 1736605,
+            "coins": 1736650,
             "cache3": true,
             "deaths": 15,
             "clearup_achievement": true,
@@ -6350,7 +6350,7 @@
         },
         "Quake": {
             "kills": 20368,
-            "coins": 3322940,
+            "coins": 3322970,
             "deaths": 14910,
             "killstreaks": 678,
             "packages": [
@@ -6485,7 +6485,7 @@
             "shots_fired_tourney_quake_solo2_1": 8259
         },
         "VampireZ": {
-            "coins": 4345414,
+            "coins": 4345444,
             "updated_stats": true,
             "vampiric_minion": 2,
             "blood_booster": 2,
@@ -6533,7 +6533,7 @@
                 "smiley_pumpkin"
             ],
             "chosen_class": "Golem",
-            "coins": 4943689,
+            "coins": 4943719,
             "classes": {
                 "herobrine": {
                     "skill_level_d": 5,
@@ -7039,7 +7039,7 @@
                 }
             },
             "damage_dealt": 2714,
-            "coins": 4949425,
+            "coins": 4949440,
             "losses_weekly_a": 2,
             "games_weekly_a": 2,
             "losses_monthly_b": 1,
@@ -7316,7 +7316,7 @@
             "assists_kit_basic_normal_healer": 8
         },
         "MCGO": {
-            "coins": 2686129,
+            "coins": 2686144,
             "packages": [
                 "legacyachievementnewnewnew",
                 "achievement_flag_7",
@@ -7414,7 +7414,7 @@
             "score": 4
         },
         "Paintball": {
-            "coins": 5148910,
+            "coins": 5148940,
             "showKillPrefix": true,
             "kills": 115,
             "shots_fired": 5273,
@@ -16275,23 +16275,23 @@
         "Duels": {
             "show_lb_option": "on",
             "chat_enabled": "on",
-            "games_played_duels": 8896,
-            "melee_swings": 287736,
+            "games_played_duels": 8982,
+            "melee_swings": 290140,
             "blocks_placed": 37993,
-            "melee_hits": 116314,
-            "rounds_played": 8815,
+            "melee_hits": 117233,
+            "rounds_played": 8900,
             "bridge_doubles_rounds_played": 26,
             "bridge_doubles_damage_dealt": 2552,
             "bridge_doubles_health_regenerated": 212,
             "bridge_doubles_blocks_placed": 2149,
-            "bow_shots": 8798,
+            "bow_shots": 8843,
             "bridge_doubles_bow_shots": 110,
             "bridge_doubles_melee_swings": 1781,
             "bridge_doubles_bow_hits": 39,
-            "bow_hits": 3224,
+            "bow_hits": 3238,
             "bridge_doubles_melee_hits": 520,
-            "health_regenerated": 35596,
-            "damage_dealt": 136967,
+            "health_regenerated": 35687,
+            "damage_dealt": 138302,
             "all_modes_rookie_title_prestige": 5,
             "no_debuff_rookie_title_prestige": 1,
             "blitz_rookie_title_prestige": 1,
@@ -16315,7 +16315,7 @@
             "bridge_tournament_melee_hits": 12,
             "bridge_tournament_bow_hits": 4,
             "bridge_tournament_melee_swings": 38,
-            "coins": 1304581,
+            "coins": 1317763,
             "bridge_tournament_health_regenerated": 12,
             "bridge_duel_health_regenerated": 581,
             "bridge_duel_damage_dealt": 15465,
@@ -16382,22 +16382,22 @@
                 "Huaxi",
                 "Shan"
             ],
-            "losses": 1933,
-            "deaths": 1913,
+            "losses": 1949,
+            "deaths": 1929,
             "sw_doubles_rounds_played": 100,
             "sw_doubles_blocks_placed": 1258,
             "sw_doubles_deaths": 20,
             "sw_doubles_losses": 13,
             "sw_duel_kit_wins": 269,
             "sw_duel_paladin_kit_wins": 4,
-            "wins": 4691,
+            "wins": 4760,
             "paladin_kit_wins": 4,
             "kit_wins": 354,
             "sw_duel_wins": 269,
             "sw_duel_deaths": 139,
             "sw_duel_losses": 139,
             "sw_duel_kills": 230,
-            "kills": 4429,
+            "kills": 4497,
             "uhc_duel_health_regenerated": 10264,
             "uhc_duel_bow_shots": 1458,
             "uhc_duel_melee_swings": 27984,
@@ -16421,9 +16421,9 @@
             "combo_duel_rounds_played": 22,
             "combo_duel_health_regenerated": 2320,
             "combo_duel_golden_apples_eaten": 62,
-            "sumo_duel_melee_swings": 78766,
-            "sumo_duel_rounds_played": 2783,
-            "sumo_duel_melee_hits": 39151,
+            "sumo_duel_melee_swings": 79235,
+            "sumo_duel_rounds_played": 2800,
+            "sumo_duel_melee_hits": 39390,
             "uhc_duel_losses": 34,
             "uhc_duel_deaths": 34,
             "bridgeMapWins": [
@@ -16471,15 +16471,15 @@
             "sw_tournament_health_regenerated": 8,
             "sw_tournament_deaths": 1,
             "sw_tournament_bow_shots": 5,
-            "classic_duel_rounds_played": 4361,
-            "classic_duel_melee_hits": 42409,
-            "classic_duel_health_regenerated": 6873,
-            "classic_duel_damage_dealt": 80734,
-            "classic_duel_bow_hits": 1681,
-            "classic_duel_bow_shots": 4072,
-            "classic_duel_melee_swings": 115405,
-            "classic_duel_kills": 3004,
-            "classic_duel_wins": 3031,
+            "classic_duel_rounds_played": 4429,
+            "classic_duel_melee_hits": 43089,
+            "classic_duel_health_regenerated": 6964,
+            "classic_duel_damage_dealt": 82069,
+            "classic_duel_bow_hits": 1695,
+            "classic_duel_bow_shots": 4117,
+            "classic_duel_melee_swings": 117340,
+            "classic_duel_kills": 3062,
+            "classic_duel_wins": 3089,
             "mw_duels_class": "random",
             "mw_duel_bow_shots": 230,
             "mw_duel_melee_hits": 721,
@@ -16504,13 +16504,13 @@
             "blitz_duel_toxicologist_kit_wins": 2,
             "blitz_duel_wins": 13,
             "blitz_duel_kills": 13,
-            "duels_recently_played2": "CLASSIC_DUEL#UHC_DUEL#CLASSIC_DUEL#SUMO_DUEL#CLASSIC_DUEL",
+            "duels_recently_played2": "CLASSIC_DUEL#SUMO_DUEL#CLASSIC_DUEL#SUMO_DUEL#CLASSIC_DUEL",
             "ecologist_kit_wins": 8,
             "sw_duel_ecologist_kit_wins": 8,
             "sw_duel_bow_hits": 43,
             "sw_duel_bow_shots": 157,
-            "classic_duel_deaths": 932,
-            "classic_duel_losses": 932,
+            "classic_duel_deaths": 942,
+            "classic_duel_losses": 942,
             "mw_duel_blocks_placed": 461,
             "assassin_master_alechmy_hearts": 1,
             "assassin_master_alechmy_hearts_standard": 1,
@@ -16558,10 +16558,10 @@
             "uhc_four_melee_hits": 91,
             "uhc_four_melee_swings": 298,
             "uhc_four_rounds_played": 6,
-            "sumo_duel_kills": 974,
-            "sumo_duel_wins": 1143,
-            "sumo_duel_deaths": 720,
-            "sumo_duel_losses": 729,
+            "sumo_duel_kills": 984,
+            "sumo_duel_wins": 1154,
+            "sumo_duel_deaths": 726,
+            "sumo_duel_losses": 735,
             "bridge_four_blocks_placed": 1690,
             "bridge_four_bow_hits": 12,
             "bridge_four_bow_shots": 33,
@@ -17265,7 +17265,7 @@
     "eugene": {
         "dailyTwoKExp": 1741344408537
     },
-    "karma": 85847870,
+    "karma": 85856895,
     "mostRecentlyTippedUuid": "377cf6977dff440ea4fa9cbed2473907",
     "quests": {
         "skywars_solo_win": {
@@ -19174,7 +19174,13 @@
                 {
                     "time": 1741189323829
                 }
-            ]
+            ],
+            "active": {
+                "objectives": {
+                    "skywars_weekly_kills": 2
+                },
+                "started": 1741344899559
+            }
         },
         "skywars_team_win": {
             "completions": [
@@ -21115,7 +21121,7 @@
             ],
             "active": {
                 "objectives": {
-                    "skywars_solo_kills": 3
+                    "skywars_solo_kills": 5
                 },
                 "started": 1741288245434
             }
@@ -28853,6 +28859,9 @@
                 },
                 {
                     "time": 1741189504153
+                },
+                {
+                    "time": 1741345442765
                 }
             ]
         },
@@ -29391,6 +29400,9 @@
                 },
                 {
                     "time": 1741189504168
+                },
+                {
+                    "time": 1741345442739
                 }
             ]
         },
@@ -29533,14 +29545,11 @@
                 },
                 {
                     "time": 1740145740180
-                }
-            ],
-            "active": {
-                "objectives": {
-                    "win": 26
                 },
-                "started": 1740863923565
-            }
+                {
+                    "time": 1741349176526
+                }
+            ]
         },
         "duels_winner": {
             "completions": [
@@ -30269,6 +30278,9 @@
                 },
                 {
                     "time": 1741189369656
+                },
+                {
+                    "time": 1741345307259
                 }
             ]
         },
@@ -30361,7 +30373,7 @@
             ],
             "active": {
                 "objectives": {
-                    "kill": 25
+                    "kill": 94
                 },
                 "started": 1740863923552
             }
@@ -31701,7 +31713,11 @@
                 {
                     "time": 1741188906260
                 }
-            ]
+            ],
+            "active": {
+                "objectives": {},
+                "started": 1741344899564
+            }
         },
         "skywars_daily_tokens": {
             "completions": [
@@ -33331,7 +33347,7 @@
             ],
             "active": {
                 "objectives": {
-                    "skywars_daily_tokens_wins": 3
+                    "skywars_daily_tokens_wins": 5
                 },
                 "started": 1741288245437
             }
@@ -40126,7 +40142,7 @@
             "MURDER_MYSTERY__hero": 37,
             "MURDER_MYSTERY__murder_spree": 32,
             "MURDER_MYSTERY__sherlock": 17,
-            "DUELS__feed_the_void_challenge": 773,
+            "DUELS__feed_the_void_challenge": 783,
             "TNTGAMES__tnt_tag_challenge": 570,
             "SKYWARS__feeding_the_void_challenge": 1754,
             "DUELS__target_practice_challenge": 2,
@@ -40197,6 +40213,9 @@
         "day_c": {
             "BEDWARS__support": 3,
             "BEDWARS__offensive": 3
+        },
+        "day_d": {
+            "DUELS__feed_the_void_challenge": 10
         }
     },
     "lastMapVote": 1552351014699,

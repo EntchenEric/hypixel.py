@@ -111,6 +111,8 @@ class Hypixel:
                             "mostRecentGameType", ""
                         ),
                         fortune_buff=player.get("fortuneBuff", 0),
+                        vanity_meta=player.get("vanityMeta", {}),
+                        housing_meta=player.get("housingMeta", {}),
                     )
                 else:
                     raise Exception("Failed to get player")

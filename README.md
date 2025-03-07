@@ -6,8 +6,6 @@ A Python library for interacting with the Hypixel API. This library provides a c
 This is still really early in development and not remotely stable!
 
 ## ToDo
-- Player vanityMeta wrapping
-- Player housingMeta wrapping
 - Player achievementTracking wrapping
 - Player challenges wrapping
 - Player achievementRewardsNew wrapping

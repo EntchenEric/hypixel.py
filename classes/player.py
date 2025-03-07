@@ -12,6 +12,8 @@ from .games.murder_mystery import MurderMysteryStats
 from .achievement_progress import AchievementProgress
 from .achievements import Achievements
 from .pet_consumables import PetConsumables
+from .vanity_meta import VanityMeta
+from .housing_meta import HousingMeta
 
 
 @dataclass
@@ -104,6 +106,8 @@ class Player:
         claimed_century_cake2000: int,
         most_recent_game_type: str,
         fortune_buff: int,
+        vanity_meta: dict,
+        housing_meta: dict,
     ):
         self._id = _id
         self.uuid = uuid
@@ -165,6 +169,8 @@ class Player:
         )
         self.most_recent_game_type = most_recent_game_type
         self.fortune_buff = datetime.fromtimestamp(fortune_buff / 1000)
+        self.vanity_meta = VanityMeta(vanity_meta)
+        self.housing_meta = HousingMeta(housing_meta)
 
     @property
     def rank(self) -> Rank:
