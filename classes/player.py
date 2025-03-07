@@ -101,9 +101,9 @@ class Player:
         current_pet: str,
         claimed_year143_cake: int,
         channel: str,
-        fortuneBuff: int,
         claimed_century_cake2000: int,
         most_recent_game_type: str,
+        fortune_buff: int,
     ):
         self._id = _id
         self.uuid = uuid
@@ -160,11 +160,11 @@ class Player:
             claimed_year143_cake / 1000
         )
         self.channel = channel
-        self.fortuneBuff = datetime.fromtimestamp(fortuneBuff / 1000)
         self.claimed_century_cake2000 = datetime.fromtimestamp(
             claimed_century_cake2000 / 1000
         )
         self.most_recent_game_type = most_recent_game_type
+        self.fortune_buff = datetime.fromtimestamp(fortune_buff / 1000)
 
     @property
     def rank(self) -> Rank:

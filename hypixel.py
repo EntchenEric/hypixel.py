@@ -16,7 +16,7 @@ class Hypixel:
                 if data["success"]:
                     player = data["player"]
                     # Save raw player data to JSON file
-                    with open(f"player_{uuid}.json", "w") as f:
+                    with open(f"playerJsons/player_{uuid}.json", "w") as f:
                         json.dump(player, f, indent=4)
 
                     return Player(
@@ -38,9 +38,13 @@ class Hypixel:
                             if "monthlyPackageRank" in player
                             else None
                         ),
-                        first_login=player["firstLogin"],
-                        last_login=player["lastLogin"],
-                        last_logout=player["lastLogout"],
+                        first_login=player.get("firstLogin", 0),
+                        last_login=player.get(
+                            "lastLogin", 0
+                        ),
+                        last_logout=player.get(
+                            "lastLogout", 0
+                        ),
                         stats=player["stats"],
                         achievements=player.get("achievementsOneTime", {}),
                         achievement_progress=player.get(
@@ -106,6 +110,7 @@ class Hypixel:
                         most_recent_game_type=player.get(
                             "mostRecentGameType", ""
                         ),
+                        fortune_buff=player.get("fortuneBuff", 0),
                     )
                 else:
                     raise Exception("Failed to get player")
